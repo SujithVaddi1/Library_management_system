@@ -1,5 +1,6 @@
-from exceptions import BookNotFoundException
-from book import Book
+from .exceptions import BookNotFoundException
+from .book import Book
+
 
 class Library:
     def __init__(self):
