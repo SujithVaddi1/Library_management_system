@@ -1,4 +1,5 @@
-from exceptions import BookNotFoundException
+from .exceptions import BookNotFoundException
+
 
 class User:
     def __init__(self, name: str, library):
