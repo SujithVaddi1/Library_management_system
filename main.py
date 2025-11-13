@@ -1,6 +1,6 @@
 from .library import Library
 from .user import User
-from .book import Book
+from .Book import Book
 
 
 def main():
