@@ -1,4 +1,4 @@
-from .exceptions import BookNotFoundException
+from exceptions import BookNotFoundException
 
 
 class User:
